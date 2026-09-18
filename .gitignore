@@ -1,0 +1,12 @@
+*.py
+requirements.txt
+pyproject.toml
+/image
+/game_data
+/core
+/app
+/UI/items
+/UI/nonoutfit
+/UI/Standalone
+*.csv
+outfit_aliases.json
